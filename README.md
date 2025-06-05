@@ -6,6 +6,9 @@ To purchase the software (no coding needs) contact: mahsatorabi515@gmail.com
 
 ![icon](https://github.com/user-attachments/assets/655d4376-3219-45ae-984d-fcee827244e3)
 
+To cite this tool: 
+
+Ketabbase. (2025). ketabbase/BlinkSpeak: BlinkSpeack Detection (Version eyeblinkdetection-1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.15600189
 
 ## Features
 
