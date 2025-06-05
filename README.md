@@ -1,6 +1,7 @@
 # BlinkSpeak
 
 A professional blink and mouth movemen detection system.
+To purchase the software (no coding needs) contact: mahsatorabi515@gmail.com
 
 ## Features
 
