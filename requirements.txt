@@ -1,0 +1,12 @@
+streamlit==1.32.0
+pandas==2.2.1
+plotly==5.19.0
+numpy==1.26.4
+opencv-python>=4.5.0
+mediapipe>=0.8.9
+pyinstaller>=6.3.0
+setuptools>=69.0.3
+wheel>=0.42.0
+scipy>=1.7.0
+pygaze>=0.7.0
+psychopy>=2021.2.0 
