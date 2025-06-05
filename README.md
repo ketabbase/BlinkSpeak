@@ -1,6 +1,6 @@
 # BlinkSpeak
 
-A professional blink detection and speech analysis system that combines real-time blink detection with comprehensive speech pattern analysis.
+A professional blink and mouth movemen detection system.
 
 ## Features
 
